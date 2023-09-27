@@ -1,0 +1,5 @@
+"hello world ! this is python code for new beginner"
+"python is a programming language "
+"python is a easy programming language"
+"python programming language is easy compare to java"
+"python syntax is very easy compare to java and c++ ,c"
